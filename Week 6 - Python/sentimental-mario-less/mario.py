@@ -5,6 +5,8 @@ while True:
     if h > 0 and h < 9:
         break
 
+
+
 for i in range(0, h, 1):
     for j in range(0, h, 1):
         if i + j < h - 1:
