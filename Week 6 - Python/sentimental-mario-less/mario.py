@@ -11,3 +11,13 @@ for i in range(0, h, 1):
         else:
             print("#", end = "")
     print()
+
+
+
+
+
+
+
+
+
+
