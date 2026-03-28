@@ -22,6 +22,7 @@
 
 ---
 
+
 ## 📖 About
 
 This repository contains my solutions, notes, and projects from **CS50x** — Harvard's legendary introduction to computer science and the art of programming. From memory management in C to full-stack web development, this is the full journey.
